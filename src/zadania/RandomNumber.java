@@ -20,12 +20,12 @@ public class RandomNumber {
                 System.out.println("Szukana liczba jest mniejsza");
 
             }else if (number == a){
-                return "wygrałeś";
+                return "JUHUUUU";
 
 
 
             }
-        }return "przegrałeś " + number;
+        }return "LOOSER Muahahahahah " + number;
     }
 
 }
